@@ -1,0 +1,23 @@
+# ninja log v5
+21	104	7348845607252166	CMakeFiles/untitled4.dir/bt4.c.obj	a106704d743e55da
+2	49	7344275635225885	CMakeFiles/untitled4.dir/main.c.obj	502f80f1e57742f9
+17	94	7348845607122512	CMakeFiles/untitled4.dir/bt3.c.obj	bd3032121535ce5b
+2	55	7348559758770313	CMakeFiles/untitled4.dir/aa.c.obj	9c114c0ebe369f1d
+654	745	7349620010674020	untitled4.exe	c9f24674172a948
+6	94	7348845607122512	CMakeFiles/untitled4.dir/bt1.c.obj	7e98948a3040cb3
+2	84	7348845606933017	CMakeFiles/untitled4.dir/bt2.c.obj	27b1f1ddc2432277
+1	58	7348849700126687	CMakeFiles/untitled4.dir/bt5.c.obj	9cabc98c99e0d9a8
+2	51	7348569161591451	CMakeFiles/untitled4.dir/bb.c.obj	fb0f9a0834afdee4
+2	50	7348589864614589	CMakeFiles/untitled4.dir/cc.c.obj	230975334c665d3d
+6	56	7348825320616367	CMakeFiles/untitled4.dir/dd.c.obj	637fa79661eacb61
+1	48	7348835199554411	CMakeFiles/untitled4.dir/ee.c.obj	a557007677c0e474
+10	62	7348849700166580	CMakeFiles/untitled4.dir/bt8.c.obj	4ba8c6f19c79411b
+2	454	7348835075810361	CMakeFiles/untitled4.dir/ff.c.obj	29bc56f249fc09c6
+2	420	7349617056352639	CMakeFiles/untitled4.dir/bt6.c.obj	9d584724e3208047
+8	58	7348846347185442	CMakeFiles/untitled4.dir/bt7.c.obj	67edc2fe07e34510
+1	1048	7349620658263668	build.ninja	b2a77bfccbf86575
+1	53	7349620003800253	CMakeFiles/untitled4.dir/bt9.c.obj	e81db85c8f17657f
+5	653	7349620009794754	CMakeFiles/untitled4.dir/bt10.c.obj	f2f148cacdef37dd
+2	58	7349621651959241	CMakeFiles/untitled4.dir/bt10.c.obj	f2f148cacdef37dd
+7	482	7349621656214922	CMakeFiles/untitled4.dir/bt11.c.obj	ff9c976f2665bba2
+482	573	7349621657072252	untitled4.exe	2e10bd24d39e699
